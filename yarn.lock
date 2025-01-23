@@ -3708,7 +3708,7 @@ __metadata:
     "@types/cookie": "npm:^0.6.0"
     "@types/node": "npm:^22.7.8"
     "@types/uuid": "npm:^10.0.0"
-    "@vramework/core": "npm:^0.6.7"
+    "@vramework/core": "npm:^0.6.10"
     "@vramework/inspector": "npm:^0.6.2"
     commander: "npm:^12"
     glob: "npm:^10"
@@ -3733,7 +3733,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@vramework/core@npm:^0.6.5, @vramework/core@npm:^0.6.7, @vramework/core@workspace:packages/core":
+"@vramework/core@npm:^0.6.10, @vramework/core@npm:^0.6.5, @vramework/core@npm:^0.6.7, @vramework/core@workspace:packages/core":
   version: 0.0.0-use.local
   resolution: "@vramework/core@workspace:packages/core"
   dependencies:
@@ -3919,7 +3919,7 @@ __metadata:
     ajv-formats: "npm:^3.0.1"
     typescript: "npm:^5.6.3"
   peerDependencies:
-    "@vramework/core": ^0.6.7
+    "@vramework/core": ^0.6.10
   languageName: unknown
   linkType: soft
 

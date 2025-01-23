@@ -1,5 +1,13 @@
 # @vramework/schema-ajv
 
+## 0.6.2
+
+### Patch Changes
+
+- ccbef83: fix: validate against empty data payloads
+- Updated dependencies [ccbef83]
+  - @vramework/core@0.6.10
+
 ## 0.6.1
 
 ### Patch Changes
