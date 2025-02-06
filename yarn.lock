@@ -2343,7 +2343,7 @@ __metadata:
   resolution: "@pikku/cli@workspace:packages/cli"
   dependencies:
     "@openapi-contrib/json-schema-to-openapi-schema": "npm:^3.0.2"
-    "@pikku/core": "npm:^0.6.7"
+    "@pikku/core": "npm:^0.6.10"
     "@pikku/inspector": "npm:^0.6.2"
     "@types/cookie": "npm:^0.6.0"
     "@types/node": "npm:^22.7.8"
@@ -2371,7 +2371,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@pikku/core@npm:^0.6.5, @pikku/core@npm:^0.6.7, @pikku/core@workspace:packages/core":
+"@pikku/core@npm:^0.6.10, @pikku/core@npm:^0.6.5, @pikku/core@npm:^0.6.7, @pikku/core@workspace:packages/core":
   version: 0.0.0-use.local
   resolution: "@pikku/core@workspace:packages/core"
   dependencies:
@@ -2557,7 +2557,7 @@ __metadata:
     ajv-formats: "npm:^3.0.1"
     typescript: "npm:^5.6.3"
   peerDependencies:
-    "@pikku/core": ^0.6.7
+    "@pikku/core": ^0.6.10
   languageName: unknown
   linkType: soft
 
